@@ -1,0 +1,737 @@
+*,
+::before,
+::after {
+    --tw-border-spacing-x: 0;
+    --tw-border-spacing-y: 0;
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    --tw-pan-x: ;
+    --tw-pan-y: ;
+    --tw-pinch-zoom: ;
+    --tw-scroll-snap-strictness: proximity;
+    --tw-gradient-from-position: ;
+    --tw-gradient-via-position: ;
+    --tw-gradient-to-position: ;
+    --tw-ordinal: ;
+    --tw-slashed-zero: ;
+    --tw-numeric-figure: ;
+    --tw-numeric-spacing: ;
+    --tw-numeric-fraction: ;
+    --tw-ring-inset: ;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgb(59 130 246 / 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    --tw-blur: ;
+    --tw-brightness: ;
+    --tw-contrast: ;
+    --tw-grayscale: ;
+    --tw-hue-rotate: ;
+    --tw-invert: ;
+    --tw-saturate: ;
+    --tw-sepia: ;
+    --tw-drop-shadow: ;
+    --tw-backdrop-blur: ;
+    --tw-backdrop-brightness: ;
+    --tw-backdrop-contrast: ;
+    --tw-backdrop-grayscale: ;
+    --tw-backdrop-hue-rotate: ;
+    --tw-backdrop-invert: ;
+    --tw-backdrop-opacity: ;
+    --tw-backdrop-saturate: ;
+    --tw-backdrop-sepia:
+}
+
+::backdrop {
+    --tw-border-spacing-x: 0;
+    --tw-border-spacing-y: 0;
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+    --tw-pan-x: ;
+    --tw-pan-y: ;
+    --tw-pinch-zoom: ;
+    --tw-scroll-snap-strictness: proximity;
+    --tw-gradient-from-position: ;
+    --tw-gradient-via-position: ;
+    --tw-gradient-to-position: ;
+    --tw-ordinal: ;
+    --tw-slashed-zero: ;
+    --tw-numeric-figure: ;
+    --tw-numeric-spacing: ;
+    --tw-numeric-fraction: ;
+    --tw-ring-inset: ;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgb(59 130 246 / 0.5);
+    --tw-ring-offset-shadow: 0 0 #0000;
+    --tw-ring-shadow: 0 0 #0000;
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    --tw-blur: ;
+    --tw-brightness: ;
+    --tw-contrast: ;
+    --tw-grayscale: ;
+    --tw-hue-rotate: ;
+    --tw-invert: ;
+    --tw-saturate: ;
+    --tw-sepia: ;
+    --tw-drop-shadow: ;
+    --tw-backdrop-blur: ;
+    --tw-backdrop-brightness: ;
+    --tw-backdrop-contrast: ;
+    --tw-backdrop-grayscale: ;
+    --tw-backdrop-hue-rotate: ;
+    --tw-backdrop-invert: ;
+    --tw-backdrop-opacity: ;
+    --tw-backdrop-saturate: ;
+    --tw-backdrop-sepia:
+}
+
+.mimi-fixed {
+    position: fixed
+}
+
+.mimi-absolute {
+    position: absolute
+}
+
+.mimi-relative {
+    position: relative
+}
+
+.mimi-inset-0 {
+    inset: 0px
+}
+
+.mimi-inset-5 {
+    inset: 1.25rem
+}
+
+.-mimi-top-\[36px\] {
+    top: -36px
+}
+
+.mimi-right-0 {
+    right: 0px
+}
+
+.mimi-right-2\/4 {
+    right: 50%
+}
+
+.mimi-top-0 {
+    top: 0px
+}
+
+.mimi-top-2 {
+    top: 0.5rem
+}
+
+.mimi-top-2\.5 {
+    top: 0.625rem
+}
+
+.mimi-top-\[82px\] {
+    top: 82px
+}
+
+.mimi-m-0 {
+    margin: 0px
+}
+
+.mimi-m-5 {
+    margin: 1.25rem
+}
+
+.mimi-mx-auto {
+    margin-left: auto;
+    margin-right: auto
+}
+
+.mimi-mb-2 {
+    margin-bottom: 0.5rem
+}
+
+.mimi-mb-2\.5 {
+    margin-bottom: 0.625rem
+}
+
+.mimi-mb-5 {
+    margin-bottom: 1.25rem
+}
+
+.mimi-ml-3 {
+    margin-left: 0.75rem
+}
+
+.mimi-ml-5 {
+    margin-left: 1.25rem
+}
+
+.mimi-mr-5 {
+    margin-right: 1.25rem
+}
+
+.mimi-mt-0 {
+    margin-top: 0px
+}
+
+.mimi-mt-\[44px\] {
+    margin-top: 44px
+}
+
+.mimi-flex {
+    display: flex
+}
+
+.mimi-h-2 {
+    height: 0.5rem
+}
+
+.mimi-h-2\.5 {
+    height: 0.625rem
+}
+
+.mimi-h-3 {
+    height: 0.75rem
+}
+
+.mimi-h-3\.5 {
+    height: 0.875rem
+}
+
+.mimi-h-4 {
+    height: 1rem
+}
+
+.mimi-h-9 {
+    height: 2.25rem
+}
+
+.mimi-h-full {
+    height: 100%
+}
+
+.mimi-w-3 {
+    width: 0.75rem
+}
+
+.mimi-w-3\.5 {
+    width: 0.875rem
+}
+
+.mimi-w-4 {
+    width: 1rem
+}
+
+.mimi-w-6 {
+    width: 1.5rem
+}
+
+.mimi-w-\[15\%\] {
+    width: 15%
+}
+
+.mimi-w-\[70\%\] {
+    width: 70%
+}
+
+.mimi-w-\[75\%\] {
+    width: 75%
+}
+
+.mimi-w-full {
+    width: 100%
+}
+
+.mimi-flex-1 {
+    flex: 1 1 0%
+}
+
+.mimi-flex-\[2\] {
+    flex: 2
+}
+
+.mimi-cursor-pointer {
+    cursor: pointer
+}
+
+.mimi-list-disc {
+    list-style-type: disc
+}
+
+.mimi-flex-col {
+    flex-direction: column
+}
+
+.mimi-items-start {
+    align-items: flex-start
+}
+
+.mimi-items-center {
+    align-items: center
+}
+
+.mimi-justify-center {
+    justify-content: center
+}
+
+.mimi-justify-between {
+    justify-content: space-between
+}
+
+.mimi-justify-evenly {
+    justify-content: space-evenly
+}
+
+.mimi-gap-x-\[100px\] {
+    column-gap: 100px
+}
+
+.mimi-rounded {
+    border-radius: 0.25rem
+}
+
+.mimi-rounded-\[1\.5px\] {
+    border-radius: 1.5px
+}
+
+.mimi-rounded-\[3px\] {
+    border-radius: 3px
+}
+
+.mimi-rounded-full {
+    border-radius: 9999px
+}
+
+.mimi-border {
+    border-width: 1px
+}
+
+.mimi-border-0 {
+    border-width: 0px
+}
+
+.mimi-border-b-\[3px\] {
+    border-bottom-width: 3px
+}
+
+.mimi-border-solid {
+    border-style: solid
+}
+
+.mimi-border-\[\#D9D9D9\] {
+    --tw-border-opacity: 1;
+    border-color: rgb(217 217 217 / var(--tw-border-opacity))
+}
+
+.mimi-border-\[\#FE9300\] {
+    --tw-border-opacity: 1;
+    border-color: rgb(254 147 0 / var(--tw-border-opacity))
+}
+
+.mimi-border-white {
+    --tw-border-opacity: 1;
+    border-color: rgb(255 255 255 / var(--tw-border-opacity))
+}
+
+.mimi-top-\[-7px\] {
+    top: -7px;
+}
+
+.mimi-bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity))
+}
+
+.mimi-bg-\[\#FFDEB1\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 222 177 / var(--tw-bg-opacity))
+}
+
+.mimi-bg-\[\#fe9300\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(254 147 0 / var(--tw-bg-opacity))
+}
+
+.mimi-p-0 {
+    padding: 0px
+}
+
+.mimi-p-0\.5 {
+    padding: 0.125rem
+}
+
+.mimi-w-0 {
+    width: 0px;
+}
+
+.mimi-px-3 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem
+}
+
+.mimi-px-3\.5 {
+    padding-left: 0.875rem;
+    padding-right: 0.875rem
+}
+
+.mimi-pb-1 {
+    padding-bottom: 0.25rem
+}
+
+.mimi-text-center {
+    text-align: center
+}
+
+.mimi-text-\[9px\] {
+    font-size: 9px
+}
+
+.mimi-text-base {
+    font-size: 1rem;
+    line-height: 1.5rem
+}
+
+.mimi-text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem
+}
+
+.mimi-text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem
+}
+
+.mimi-font-bold {
+    font-weight: 700
+}
+
+.mimi-font-medium {
+    font-weight: 500
+}
+
+.mimi-font-semibold {
+    font-weight: 600
+}
+
+.mimi-italic {
+    font-style: italic
+}
+
+.mimi-leading-loose {
+    line-height: 2
+}
+
+.mimi-leading-none {
+    line-height: 1
+}
+
+.mimi-text-\[\#FE9300\] {
+    --tw-text-opacity: 1;
+    color: rgb(254 147 0 / var(--tw-text-opacity))
+}
+
+.mimi-text-blue-100 {
+    --tw-text-opacity: 1;
+    color: rgb(219 234 254 / var(--tw-text-opacity))
+}
+
+.mimi-text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+.after\:mimi-absolute::after {
+    content: var(--tw-content);
+    position: absolute
+}
+
+.after\:-mimi-right-2::after {
+    content: var(--tw-content);
+    right: -0.5rem
+}
+
+.after\:-mimi-right-2\.5::after {
+    content: var(--tw-content);
+    right: -0.625rem
+}
+
+.after\:mimi-top-4::after {
+    content: var(--tw-content);
+    top: 1rem
+}
+
+.after\:mimi-h-3::after {
+    content: var(--tw-content);
+    height: 0.75rem
+}
+
+.after\:mimi-h-4::after {
+    content: var(--tw-content);
+    height: 1rem
+}
+
+.after\:mimi-w-3::after {
+    content: var(--tw-content);
+    width: 0.75rem
+}
+
+.after\:mimi-w-4::after {
+    content: var(--tw-content);
+    width: 1rem
+}
+
+.after\:mimi-rounded-\[5px\]::after {
+    content: var(--tw-content);
+    border-radius: 5px
+}
+
+.after\:mimi-rounded-full::after {
+    content: var(--tw-content);
+    border-radius: 9999px
+}
+
+.after\:mimi-border-5::after {
+    content: var(--tw-content);
+    border-width: 5px
+}
+
+.after\:mimi-border-x-\[6px\]::after {
+    content: var(--tw-content);
+    border-left-width: 6px;
+    border-right-width: 6px
+}
+
+.after\:mimi-border-y-\[10px\]::after {
+    content: var(--tw-content);
+    border-top-width: 10px;
+    border-bottom-width: 10px
+}
+
+.after\:mimi-border-solid::after {
+    content: var(--tw-content);
+    border-style: solid
+}
+
+.after\:mimi-border-\[\#fe9300\]::after {
+    content: var(--tw-content);
+    --tw-border-opacity: 1;
+    border-color: rgb(254 147 0 / var(--tw-border-opacity))
+}
+
+.after\:mimi-border-transparent::after {
+    content: var(--tw-content);
+    border-color: transparent
+}
+
+.after\:mimi-border-t-\[\#fe9300\]::after {
+    content: var(--tw-content);
+    --tw-border-opacity: 1;
+    border-top-color: rgb(254 147 0 / var(--tw-border-opacity))
+}
+
+.after\:mimi-bg-\[\#ffdeb1\]::after {
+    content: var(--tw-content);
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 222 177 / var(--tw-bg-opacity))
+}
+
+.after\:mimi-content-\[\'\'\]::after {
+    --tw-content: '';
+    content: var(--tw-content)
+}
+
+.-mimi-top-1 {
+    top: -0.25rem;
+}
+
+.-mimi-top-1\.5 {
+    top: -0.375rem;
+}
+
+.mimi-mt-\[-30px\] {
+    margin-top: -30px;
+}
+
+.mimi-mt-\[40px\] {
+    margin-top: 40px;
+}
+
+.mimi-w-2 {
+    width: 0.5rem;
+}
+
+.mimi-w-2\.5 {
+    width: 0.625rem;
+}
+
+.mimi-flex-col-reverse {
+    flex-direction: column-reverse;
+}
+
+.mimi-gap-3 {
+    gap: 0.75rem;
+}
+
+.mimi-border-\[5px\] {
+    border-width: 5px;
+}
+
+.mimi-bg-gray-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(229 231 235 / var(--tw-bg-opacity));
+}
+
+.mimi-rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.\!mimi-border-white {
+    --tw-border-opacity: 1 !important;
+    border-color: rgb(255 255 255 / var(--tw-border-opacity)) !important;
+}
+
+.mimi-px-1 {
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+}
+
+.mimi-px-1\.5 {
+    padding-left: 0.375rem;
+    padding-right: 0.375rem;
+}
+
+.\!mimi-text-white {
+    --tw-text-opacity: 1 !important;
+    color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
+}
+
+.mimi-left-\[-1\%\] {
+    left: -1%;
+}
+
+.mimi-mr-0\.5 {
+    margin-right: 0.125rem;
+}
+
+.mimi-p-0\.5 {
+    padding: 0.125rem;
+}
+
+.mimi-arrow-right {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.wrap{
+    margin: 0!important;
+}
+
+.hover\:mimi-opacity-85:hover {
+    opacity: 0.85;
+}
+
+@media (min-width: 1280px) {
+    .xl\:mimi-h-\[40px\] {
+        height: 40px;
+    }
+
+    .xl\:mimi-text-xl {
+        font-size: 1.25rem
+            /* 20px */
+        ;
+        line-height: 1.75rem
+            /* 28px */
+        ;
+    }
+}
+
+@media (min-width: 1536px) {
+    .\32xl\:mimi-mr-\[3px\] {
+        margin-right: 3px;
+    }
+
+    .\32xl\:mimi-p-\[3px\] {
+        padding: 3px;
+    }
+
+    .\32xl\:-mimi-top-\[46px\] {
+        top: -46px
+    }
+
+    .\32xl\:mimi-mt-\[62px\] {
+        margin-top: 62px
+    }
+
+    .\32xl\:mimi-h-5 {
+        height: 1.25rem
+    }
+
+    .\32xl\:mimi-h-\[23px\] {
+        height: 23px
+    }
+
+    .\32xl\:mimi-h-\[50px\] {
+        height: 50px
+    }
+
+    .\32xl\:mimi-w-5 {
+        width: 1.25rem
+    }
+
+    .\32xl\:mimi-w-\[31px\] {
+        width: 31px
+    }
+
+    .\32xl\:mimi-text-\[25px\] {
+        font-size: 25px
+    }
+
+    .\32xl\:mimi-text-xl {
+        font-size: 1.25rem;
+        line-height: 1.75rem
+    }
+
+    .\32xl\:mimi-text-xs {
+        font-size: 0.75rem;
+        line-height: 1rem
+    }
+
+    .\32xl\:after\:mimi-top-6::after {
+        content: var(--tw-content);
+        top: 1.5rem
+    }
+
+    .\32xl\:mimi-top-\[-8px\] {
+        top: -8px;
+    }
+
+    .\32xl\:mimi-mt-\[-40px\] {
+        margin-top: -40px;
+    }
+
+    .\32xl\:mimi-h-\[15px\] {
+        height: 15px;
+    }
+
+    .\32xl\:mimi-w-\[15px\] {
+        width: 15px;
+    }
+}
